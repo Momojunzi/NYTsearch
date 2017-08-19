@@ -1,5 +1,21 @@
+
+html, body {
+	height: 100%;
+}
+
+.container-fluid {
+	height: 100%;
+}
 .button-container {
 	display: flex;
 	justify-content: left;
 	align-items: center;
+}
+
+footer {
+	position: relative;
+	top: 0px;
+	/*display: flex;
+	justify-content: center;
+	align-items: flex-end;*/
 }
